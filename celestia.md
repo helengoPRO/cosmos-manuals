@@ -1,5 +1,5 @@
 # Celestia node setup
-
+Docs - https://docs.celestia.org/nodes/overview/
 ## Setting up vars
 Set validator name
 ```
